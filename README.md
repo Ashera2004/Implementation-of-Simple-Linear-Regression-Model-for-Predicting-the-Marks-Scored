@@ -9,22 +9,31 @@ To write a program to predict the marks scored by a student using the simple lin
 
 ## Algorithm
 1. Load and Prepare Data
-    • Import necessary libraries (pandas, numpy, matplotlib, sklearn).
+
+   • Import necessary libraries (pandas, numpy, matplotlib, sklearn).
+   
     • Load student_scores.csv and extract values of independent variable X and dependent variable Y.
    
-2. Split Data into Training and Testing Sets
+3. Split Data into Training and Testing Sets
+
     • Use train_test_split() to divide data (2/3 training, 1/3 testing).
    
-3. Train Linear Regression Model
+5. Train Linear Regression Model
+
     • Initialize LinearRegression().
-    • Fit the model using X_train and Y_train.
 
-4. Make Predictions and Evaluate Model
-    • Predict scores using X_test.
-    • compute MSE, MAE, and RMSE to assess performance.
+   • Fit the model using X_train and Y_train.
 
-5. Visualize Results
-    • Plot training data with a scatter plot.
+7. Make Predictions and Evaluate Model
+
+   • Predict scores using X_test.
+
+   • compute MSE, MAE, and RMSE to assess performance.
+
+9. Visualize Results
+
+   • Plot training data with a scatter plot.
+
     • Draw the best-fit regression line.
 
 ## Program:
