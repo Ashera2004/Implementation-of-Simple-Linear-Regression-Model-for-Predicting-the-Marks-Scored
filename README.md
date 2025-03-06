@@ -82,6 +82,14 @@ plt.xlabel("Hours")
 plt.ylabel("Scores")
 plt.show()
 
+#graph plot for testing data
+plt.scatter(X_test,Y_test,color="orange")
+plt.plot(X_test,regressor.predict(X_test),color="red")
+plt.title("Hours vs Scores(Testing set)")
+plt.xlabel("Hours")
+plt.ylabel("Scores")
+plt.show()
+
 Developed by: A S Siddarth
 RegisterNumber: 212224040316
 
