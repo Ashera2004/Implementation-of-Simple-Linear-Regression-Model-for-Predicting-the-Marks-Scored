@@ -98,7 +98,7 @@ RegisterNumber: 212224040316
 ![image](https://github.com/Ashera2004/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/blob/fe058a77738d4e74fe00bef77cbc4f3644e5e65a/graph_ex2.png)
 
 
-![image](https://github.com/Ashera2004/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/blob/main/graph_ex2.png)
+![image](https://github.com/Ashera2004/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/blob/main/graph2_ex2.png)
 
 
 ## Result:
