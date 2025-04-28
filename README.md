@@ -8,33 +8,32 @@ To write a program to predict the marks scored by a student using the simple lin
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
 ## Algorithm
-1. Load and Prepare Data
 
-   • Import necessary libraries (pandas, numpy, matplotlib, sklearn).
-   
-    • Load student_scores.csv and extract values of independent variable X and dependent variable Y.
-   
-3. Split Data into Training and Testing Sets
+### 1. Load and Prepare the Data
 
-    • Use train_test_split() to divide data (2/3 training, 1/3 testing).
-   
-5. Train Linear Regression Model
+   - Import the required libraries: **pandas**, **numpy**, **matplotlib**, and relevant modules from **scikit-learn**.
+   - Load the dataset **student_scores.csv**.
+   - Extract the independent variable (**X**) and the dependent variable (**Y**) from the dataset.
 
-    • Initialize LinearRegression().
+### 2. Split the Data into Training and Testing Sets
 
-   • Fit the model using X_train and Y_train.
+   - Utilize the **train_test_split()** function to partition the data, allocating two-thirds for training and one-third for testing.
 
-7. Make Predictions and Evaluate Model
+### 3. Train the Linear Regression Model
 
-   • Predict scores using X_test.
+   - Instantiate the **LinearRegression()** model.
+   - Train the model by fitting it to the training data (**X_train** and **Y_train**).
 
-   • compute MSE, MAE, and RMSE to assess performance.
+### 4. Make Predictions and Evaluate the Model
 
-9. Visualize Results
+   - Predict the dependent variable values using **X_test**.
+   - Calculate the evaluation metrics: **Mean Squared Error (MSE)**, **Mean Absolute Error (MAE)**, and **Root Mean Squared Error (RMSE)** to assess the model’s performance.
 
-   • Plot training data with a scatter plot.
+### 5. Visualize the Results
 
-    • Draw the best-fit regression line.
+   - Create a scatter plot to display the training data points.
+   - Overlay the best-fit regression line derived from the trained model.
+
 
 ## Program:
 
