@@ -101,10 +101,23 @@ RegisterNumber: 212224040316
 
 ```
 ## Output:
-![image](https://github.com/Ashera2004/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/blob/fe058a77738d4e74fe00bef77cbc4f3644e5e65a/graph_ex2.png)
 
+![exp2_out1](https://github.com/user-attachments/assets/f0be3041-ea80-4f95-8abe-0e3724bbe750)
 
-![image](https://github.com/Ashera2004/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/blob/main/graph2_ex2.png)
+![exp2_out2](https://github.com/user-attachments/assets/9f1b7185-b30c-4f93-9aeb-e290e52f2588)
+
+![exp2_out3](https://github.com/user-attachments/assets/c9f36bb9-d2f4-48a3-bd25-c5980cca64f9)
+
+![exp2_out4](https://github.com/user-attachments/assets/cfbdd154-1a9b-4129-81bf-94bed8e3d615)
+
+![exp2_out5](https://github.com/user-attachments/assets/59018e9c-3637-4c7c-93ff-111f60a6c9da)
+
+![exp2_out6](https://github.com/user-attachments/assets/21937d9e-b701-4c4d-a2f6-3b830489eb3e)
+
+![graph_ex2](https://github.com/user-attachments/assets/9425cf92-9bea-4843-b959-6365a89441d2)
+
+![graph2_ex2](https://github.com/user-attachments/assets/7c2306f2-5b50-4161-bf96-127cfc6f7325)
+
 
 
 ## Result:
