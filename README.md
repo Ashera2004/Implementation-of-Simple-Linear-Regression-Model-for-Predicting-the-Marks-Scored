@@ -37,8 +37,8 @@ To write a program to predict the marks scored by a student using the simple lin
 
 ## Program:
 
-```
-##Program to implement the simple linear regression model for predicting the marks scored.
+```python
+# Program to implement the simple linear regression model for predicting the marks scored.
 
 import pandas as pd
 import numpy as np
@@ -96,8 +96,8 @@ plt.xlabel("Hours")
 plt.ylabel("Scores")
 plt.show()
 
-Developed by: A S Siddarth
-RegisterNumber: 212224040316
+# Developed by: A S Siddarth
+# RegisterNumber: 212224040316
 
 ```
 ## Output:
